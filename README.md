@@ -12,6 +12,8 @@ directory of open source stuff and how to install it.
 * https://github.com/motor-admin/motor-admin
 * https://github.com/saltcorn/saltcorn
 * https://github.com/freakchick/DBApi
+* https://github.com/apitable/apitable
+* https://github.com/hoppscotch/hoppscotch
 
 ## AI
 * https://github.com/FlowiseAI/Flowise
@@ -28,6 +30,7 @@ directory of open source stuff and how to install it.
 * https://github.com/dotenx/dotenx
 * https://github.com/btw-so/btw
 * https://github.com/frappe/frappe
+* https://github.com/lowcoder-org/lowcoder
 * https://github.com/frappe/builder
 ## Froms
 * https://github.com/alibaba/formily
@@ -35,3 +38,4 @@ directory of open source stuff and how to install it.
 ## Automation
 * https://github.com/activepieces/activepieces
 * https://github.com/automatisch/automatisch
+* https://github.com/browserless/browserless
