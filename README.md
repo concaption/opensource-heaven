@@ -32,6 +32,8 @@ directory of open source stuff and how to install it.
 * https://github.com/frappe/frappe
 * https://github.com/lowcoder-org/lowcoder
 * https://github.com/frappe/builder
+* webstudio.is
+
 ## Froms
 * https://github.com/alibaba/formily
 
