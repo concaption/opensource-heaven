@@ -33,6 +33,7 @@ directory of open source stuff and how to install it.
 * https://github.com/lowcoder-org/lowcoder
 * https://github.com/frappe/builder
 * https://github.com/webstudio-is/webstudio
+* https://github.com/GrapesJS/grapesjs
 
 ## Froms
 * https://github.com/alibaba/formily
