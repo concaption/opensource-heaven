@@ -14,6 +14,7 @@ directory of open source stuff and how to install it.
 * https://github.com/freakchick/DBApi
 * https://github.com/apitable/apitable
 * https://github.com/hoppscotch/hoppscotch
+* https://github.com/openblocks-dev/openblocks
 
 ## AI
 * https://github.com/FlowiseAI/Flowise
