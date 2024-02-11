@@ -15,6 +15,7 @@ directory of open source stuff and how to install it.
 * https://github.com/apitable/apitable
 * https://github.com/hoppscotch/hoppscotch
 * https://github.com/openblocks-dev/openblocks
+* https://github.com/appsmithorg/appsmith
 
 ## AI
 * https://github.com/FlowiseAI/Flowise
